@@ -2,7 +2,7 @@ from flask import Flask, render_template, request,send_from_directory, jsonify, 
 from flask import redirect
 # import gspread
 # from oauth2client.service_account import ServiceAccountCredentials
-
+# to be added FireStore config and integration
 import sys
 sys.path.insert(0,'util/')
 # from filename import function
